@@ -18,7 +18,7 @@ Langeuages used:
 <h2>Install guide:</h2>
 <b>Download libraries:</b>
 	<p>open the terminal and type: pip install <module_name></p>
-For pyrubberband:
+<pre>For pyrubberband:
 	1 Download rubberband library cli from here(https://breakfastquay.com/rubberband/) ( folder containing rubberband.exe and libsndfile-1.dll)
 	2 Go to Windows System Environment and Add the folder to Path
 	3 Create System Variable with Variable name "rubberband" and path to the rubberband.exe
@@ -29,3 +29,4 @@ For pydub:
 	1-Download ffmpeg from official website 
 	2-Go to Windows System Environment and Add the bin folder to Path
 	3-Do pip install ffmpeg and then you will be able to use it without any problems.
+	</pre>
