@@ -1,6 +1,5 @@
 <h2>Audio Processing <h2>
-<p>GUI application for Audio files processing </p>
-
+<p>GUI application for Audio files processing Using Python </p>
 <br>
 <h3>Modules Used </h3>
 <ul>
