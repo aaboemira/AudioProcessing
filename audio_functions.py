@@ -38,10 +38,9 @@ def plot_func(fileName):
         plt.show()
 
 def mp3_converter(input_file):
-    output_file = input_file[:-4]
     try:
         sound = AudioSegment.from_mp3(input_file)
-        sound.export(output_file, format="wav")
+        sound.export("output.wav", format="wav")
         messagebox.showinfo(title="File converted succefully",message="File has been converted successfully")
     except:
         messagebox.showinfo(title="Problem with file",message="File didn't convert ")
