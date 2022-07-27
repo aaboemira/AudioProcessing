@@ -15,8 +15,8 @@
 </ul>
 
 <h2>Install guide:</h2>
-<b>Install python310</b><br>
-<b>Download libraries:</b>
+<b>1-Install python310</b><br>
+<b>2-Download and Install modules</b>
 	<p>open the terminal and type: pip install <module_name></p>
 <pre>For pyrubberband:
 	1 Download rubberband library cli from here(https://breakfastquay.com/rubberband/) ( folder containing rubberband.exe and libsndfile-1.dll)
