@@ -1,5 +1,5 @@
 <h2>Audio Processing <h2>
-<p>GUI application for processing audio files </p>
+<p>GUI application for Audio files processing </p>
 Langeuages used:
  Python 310
 <br>
@@ -15,9 +15,9 @@ Langeuages used:
 	<li> pyrubberband</li>
 </ul>
 
-<h2>Install guide:<h1>
+<h2>Install guide:</h2>
 <b>Download libraries:</b>
-	open the terminal and type: pip install <module_name>
+	<p>open the terminal and type: pip install <module_name></p>
 For pyrubberband:
 	1 Download rubberband library cli from here(https://breakfastquay.com/rubberband/) ( folder containing rubberband.exe and libsndfile-1.dll)
 	2 Go to Windows System Environment and Add the folder to Path
