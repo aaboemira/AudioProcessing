@@ -15,7 +15,7 @@
 </ul>
 
 <h2>Install guide:</h2>
-<b>Install python310</b>
+<b>Install python310</b><br>
 <b>Download libraries:</b>
 	<p>open the terminal and type: pip install <module_name></p>
 <pre>For pyrubberband:
