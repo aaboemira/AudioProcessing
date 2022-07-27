@@ -1,7 +1,6 @@
 <h2>Audio Processing <h2>
 <p>GUI application for Audio files processing </p>
-Langeuages used:
- Python 310
+
 <br>
 <h3>Modules Used </h3>
 <ul>
@@ -16,6 +15,7 @@ Langeuages used:
 </ul>
 
 <h2>Install guide:</h2>
+<b>Install python310</b>
 <b>Download libraries:</b>
 	<p>open the terminal and type: pip install <module_name></p>
 <pre>For pyrubberband:
