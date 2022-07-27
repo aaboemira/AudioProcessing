@@ -1,20 +1,22 @@
-Audio Processing project
-GUI application for processing audio files 
+<h2>Audio Processing <h2>
+<p>GUI application for processing audio files </p>
 Langeuages used:
-Python 310
+ Python 310
+<br>
+<h3>Modules Used </h3>
+<ul>
+	<li>sys</li>
+	<li>Sounddevice</li>
+	<li>Matplotlib</li>
+	<li>speechrecognition</li>
+	<li> Pydub</li>
+	<li> Tkinter</li>
+	<li> Soundfile</li>
+	<li> pyrubberband</li>
+</ul>
 
-##Modules Used
-1- sys
-2- Sounddevice
-3- Matplotlib
-4- speechrecognition
-5- Pydub
-6- Tkinter
-7- Soundfile
-8- pyrubberband
-
-Install guide:
-Download libraries:
+<h2>Install guide:<h1>
+<b>Download libraries:</b>
 	open the terminal and type: pip install <module_name>
 For pyrubberband:
 	1 Download rubberband library cli from here(https://breakfastquay.com/rubberband/) ( folder containing rubberband.exe and libsndfile-1.dll)
